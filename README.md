@@ -22,7 +22,7 @@ Input:&nbsp;&nbsp;&nbsp;0&le;N&le;50</br>
 Output: Fn</br>
  
 ## Problem 2: [The Last Digit of a Large Fibonacci Number]
-Given an integer F, find the last digit of the nth Fibonacci number Fn.</br>
+Given an integer N, find the last digit of the Nth Fibonacci number Fn.</br>
 Input:&nbsp;&nbsp;&nbsp;0&le;N&le;1E7</br> 
 Output: Last digit of Fn</br>
 
@@ -34,7 +34,7 @@ Output: Fn mod M. </br>
 ## Problem 4: [Greatest Common Divisor]
 Given two integers a and b, calculates their greatest common divisor.</br>
 Input:&nbsp;&nbsp;&nbsp;1&le;a&le;1E9,  1&le;b&le;1E9</br>
-Output: GCD(a, b)</br>
+Output:GCD(a, b)</br>
 
 ## Problem 5: [Least Common Multiple] 
 Given two integers a and b, calculates their least common multiple.</br>
